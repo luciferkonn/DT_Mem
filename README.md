@@ -1,10 +1,5 @@
 # DT-Mem
 This is the official implementation of paper "Think Before You Act: Decision Transformers with Internal Working Memory"
-## Requirements
-To install dependencies, we recommend to use a conda virtual environment.
-```
-conda env create -f environment.yml
-```
 ## Training
 To train the model, run this command:
 ```
