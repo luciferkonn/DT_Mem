@@ -1,5 +1,5 @@
 # DT-Mem
-This is the official implementation of paper "Think Before You Act: Decision Transformers with Internal Working Memory"
+This is the official implementation of paper "Think Before You Act: Decision Transformers with Working Memory"
 ## Training
 To train the model, run this command:
 ```
