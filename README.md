@@ -1,5 +1,8 @@
 # DT-Mem
-This is the official implementation of paper "Think Before You Act: Decision Transformers with Working Memory"
+📝
+[Arxiv](https://arxiv.org/abs/2305.16338) \|
+\| 🐱 [Code@GitHub](https://github.com/luciferkonn/DT_Mem) \| 🏠
+[HomePage](https://luciferkonn.github.io/dt-mem.github.io/)
 ## Training
 To train the model, run this command:
 ```
